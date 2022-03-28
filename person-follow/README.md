@@ -1,3 +1,4 @@
 # Geaso_raspberry
 
-it·s my personal raspberry test repository,welcome to fork and pull request
+there is person_following code,i use raspberry to capture video stream and send to pc in LAN or remote server ,while accepting distinguish result to follow person or object.
+But following stragery still needs to improve
